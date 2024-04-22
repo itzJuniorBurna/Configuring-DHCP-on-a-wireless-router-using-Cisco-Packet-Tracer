@@ -4,7 +4,9 @@ The steps I took in configuring DHCP on a wireless router using the Cisco Packet
  
  <h2>BACKGROUND</h2> 
  
- In this project, I connected three PCs to a wireless router, changed the DHCP setting to a specific network range and configured the clients to obtain their address via DHCP. The first step I took was to each generic PC to an ethernet port to the wireless router using straight-through cables and waited for the amber lights to turn green before I made any further configurations.
+ In this project, I connected three PCs to a wireless router, changed the DHCP setting to a specific network range and configured the clients to obtain their address via DHCP. 
+ 
+ The first step I took was to each generic PC to an ethernet port to the wireless router using straight-through cables and waited for the amber lights to turn green before I made any further configurations.
  <img src="https://i.imgur.com/kP7Cqp3.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <img src="https://i.imgur.com/2Z7lYc7.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <img src="https://i.imgur.com/UNBGPBa.png" height="80%" width="80%" alt="Connecting the Devices"/> 
