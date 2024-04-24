@@ -15,7 +15,7 @@ The steps I took in configuring DHCP on a wireless router using the Cisco Packet
  <img src="https://i.imgur.com/nqKHbQ4.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <br> 
  I then change the default IP address of the wireless router and the default DHCP range of addresses. 
- <img src="https://i.imgur.com/jkQ7FC2.png" height="80%" width="80%" alt="Connecting the Devices"/> 
+ <img src="https://i.imgur.com/tPrVSLp.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <br> 
  Finally, I verified connectivity to the wireless router by pinging the IP address of the PCs from PC2
  <img src="https://i.imgur.com/dBBhEN3.png" height="80%" width="80%" alt="Connecting the Devices"/>
