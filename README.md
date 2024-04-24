@@ -9,7 +9,7 @@ The steps I took in configuring DHCP on a wireless router using the Cisco Packet
  The first step I took was to connect each generic PC to an ethernet port to the wireless router using straight-through cables and waited for the amber lights to turn green before I made any further configurations.
  <img src="https://i.imgur.com/kP7Cqp3.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <img src="https://i.imgur.com/2Z7lYc7.png" height="80%" width="80%" alt="Connecting the Devices"/> 
- <img src="https://i.imgur.com/UNBGPBa.png" height="80%" width="80%" alt="Connecting the Devices"/> 
+ <img src="https://i.imgur.com/0hNQRP4.png" height="80%" width="80%" alt="Connecting the Devices"/> 
  <br> 
  After the amber lights turned green, I dynamically assigned an IP address to the PCs 
  <img src="https://i.imgur.com/nqKHbQ4.png" height="80%" width="80%" alt="Connecting the Devices"/> 
